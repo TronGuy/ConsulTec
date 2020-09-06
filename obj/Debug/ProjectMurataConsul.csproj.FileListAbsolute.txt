@@ -1,0 +1,16 @@
+C:\Users\Luciano\source\repos\ProjectMurataConsul\bin\Debug\ProjectMurataConsul.exe.config
+C:\Users\Luciano\source\repos\ProjectMurataConsul\bin\Debug\ProjectMurataConsul.exe
+C:\Users\Luciano\source\repos\ProjectMurataConsul\bin\Debug\ProjectMurataConsul.pdb
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.Form1.resources
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.Properties.Resources.resources
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.exe
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.pdb
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.View.SobreFRM.resources
+C:\Users\Luciano\source\repos\ProjectMurataConsul\bin\Debug\MySql.Data.dll
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.csproj.CopyComplete
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.View.NavigationFRM.resources
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.View.Cadastro_Login.resources
+C:\Users\Luciano\source\repos\ProjectMurataConsul\obj\Debug\ProjectMurataConsul.View.BuscarFRM.resources
